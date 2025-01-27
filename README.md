@@ -57,10 +57,11 @@ A Python-based tool designed to automate the preparation of employee field data 
 
 ### Example Visualizations:
 - **Total Hours Worked by Employees**:
-  ![Total Hours](path/to/total_hours_per_employee.png)
-
+  ![hours_by_transaction_code](https://github.com/user-attachments/assets/ac74a007-888d-4bbb-a747-107937f3169e)
+          
 - **Hours Distribution by Transaction Code**:
-  ![Hours Breakdown](path/to/hours_by_transaction_code.png)
+ ![total_hours_per_employee](https://github.com/user-attachments/assets/34a5493c-efde-4207-bf76-3adcfd945390)
+            hours_by_transaction_code.png
 
 ---
 
